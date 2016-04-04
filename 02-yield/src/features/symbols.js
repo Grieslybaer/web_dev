@@ -8,4 +8,5 @@ export function es5() {
 }
 
 export function es6() {
+    let s = Symbol('1')
 }
